@@ -97,8 +97,6 @@ public class test {
      */
     @Test
     void apiSendExample() {
-        int x = 0;
-
         Response response =
                 given()
                         .contentType("application/x-www-form-urlencoded; charset=UTF-8")
