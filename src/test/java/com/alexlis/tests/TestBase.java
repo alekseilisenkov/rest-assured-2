@@ -1,4 +1,4 @@
-package com.alexlis.test;
+package com.alexlis.tests;
 
 import com.alexlis.config.MainConfig;
 import com.alexlis.helper.Pages;

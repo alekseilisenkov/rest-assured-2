@@ -1,15 +1,12 @@
 package com.alexlis.helper;
 
-import com.alexlis.test.TestBase;
+import com.alexlis.tests.TestBase;
 import com.codeborne.selenide.Condition;
-import com.codeborne.selenide.Selenide;
 import com.codeborne.selenide.SelenideElement;
 import io.qameta.allure.Step;
-import org.openqa.selenium.Cookie;
 
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
-import static com.codeborne.selenide.WebDriverRunner.getWebDriver;
 
 public class Pages extends TestBase {
 

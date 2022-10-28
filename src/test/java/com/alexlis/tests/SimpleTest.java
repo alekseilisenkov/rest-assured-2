@@ -1,4 +1,4 @@
-package com.alexlis.test;
+package com.alexlis.tests;
 
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.Cookie;
